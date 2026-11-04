@@ -1,0 +1,6 @@
+{
+  "name": "GeoDuck Spatial Analytics",
+  "description": "High-performance in-browser spatial analytics dashboard powered by DuckDB-Wasm, MapLibre GL, and Deck.gl.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
